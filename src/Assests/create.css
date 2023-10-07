@@ -1,0 +1,20 @@
+.main-box {
+    display: flex;
+    justify-content: center;
+}
+
+.form-box {
+    margin: 1em 1em;
+    display: flex;
+    justify-content: space-between;
+}
+
+.label {
+    padding: 0rem 3rem;
+}
+
+.button {
+    display: flex;
+    justify-content: space-between;  
+    padding: 0rem 1rem;  
+}
